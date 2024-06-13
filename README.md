@@ -1,0 +1,1 @@
+# IOT_Equipo9_BasureroInteligente
