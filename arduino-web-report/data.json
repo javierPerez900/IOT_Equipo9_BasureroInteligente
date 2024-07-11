@@ -1,0 +1,3227 @@
+[
+  {
+    "timestamp": "2024-07-09T00:51:50.521Z",
+    "distanceToPerson": "170",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:51:51.514Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:51:51.859Z",
+    "distanceToPerson": "235",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:51:52.847Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:51:53.814Z",
+    "distanceToPerson": "171",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:51:54.870Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:51:55.806Z",
+    "distanceToPerson": "1",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:51:56.810Z",
+    "distanceToPerson": "1",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:51:57.240Z",
+    "distanceToPerson": "1",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:51:57.501Z",
+    "distanceToPerson": "1",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:51:58.506Z",
+    "distanceToPerson": "2",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:51:59.166Z",
+    "distanceToPerson": "236",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:00.108Z",
+    "distanceToPerson": "235",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:00.221Z",
+    "distanceToPerson": "286",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:00.760Z",
+    "distanceToPerson": "232",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:01.271Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:01.727Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:02.183Z",
+    "distanceToPerson": "285",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:02.743Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:03.781Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:05.523Z",
+    "distanceToPerson": "284",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:06.513Z",
+    "distanceToPerson": "124",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:07.521Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:08.531Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:09.545Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:10.510Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:11.519Z",
+    "distanceToPerson": "124",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:12.519Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:13.525Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:14.518Z",
+    "distanceToPerson": "235",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:15.518Z",
+    "distanceToPerson": "236",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:16.527Z",
+    "distanceToPerson": "233",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:17.523Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:18.531Z",
+    "distanceToPerson": "176",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:19.532Z",
+    "distanceToPerson": "216",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:20.515Z",
+    "distanceToPerson": "168",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:21.516Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:22.519Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:23.524Z",
+    "distanceToPerson": "282",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:24.516Z",
+    "distanceToPerson": "281",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:25.522Z",
+    "distanceToPerson": "282",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:26.514Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:27.537Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:28.525Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:29.526Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:30.814Z",
+    "distanceToPerson": "233",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:31.521Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:32.517Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:33.537Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:34.525Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:35.522Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:36.522Z",
+    "distanceToPerson": "234",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:37.517Z",
+    "distanceToPerson": "233",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:38.527Z",
+    "distanceToPerson": "236",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:39.516Z",
+    "distanceToPerson": "124",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:40.522Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:41.514Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:42.520Z",
+    "distanceToPerson": "167",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:43.515Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:44.523Z",
+    "distanceToPerson": "284",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:45.511Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:46.535Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:47.526Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:48.563Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:49.521Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:50.541Z",
+    "distanceToPerson": "170",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:51.520Z",
+    "distanceToPerson": "221",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:52.512Z",
+    "distanceToPerson": "248",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:53.525Z",
+    "distanceToPerson": "120",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:54.532Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:55.520Z",
+    "distanceToPerson": "234",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:56.691Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:57.510Z",
+    "distanceToPerson": "167",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:58.519Z",
+    "distanceToPerson": "231",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:52:59.528Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:53:00.527Z",
+    "distanceToPerson": "167",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:53:01.519Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:53:02.523Z",
+    "distanceToPerson": "167",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:53:03.520Z",
+    "distanceToPerson": "170",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:53:50.545Z",
+    "distanceToPerson": "220",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:53:59.093Z",
+    "distanceToPerson": "214",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:53:59.750Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:01.521Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:02.510Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:03.576Z",
+    "distanceToPerson": "170",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:04.523Z",
+    "distanceToPerson": "170",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:05.524Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:06.514Z",
+    "distanceToPerson": "281",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:07.521Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:08.511Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:09.515Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:10.524Z",
+    "distanceToPerson": "167",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:11.521Z",
+    "distanceToPerson": "246",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:12.523Z",
+    "distanceToPerson": "170",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:13.509Z",
+    "distanceToPerson": "167",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:14.522Z",
+    "distanceToPerson": "167",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:15.516Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:16.515Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:17.518Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:18.521Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:19.518Z",
+    "distanceToPerson": "233",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:20.525Z",
+    "distanceToPerson": "234",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:21.520Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:22.523Z",
+    "distanceToPerson": "120",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:23.518Z",
+    "distanceToPerson": "234",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:24.527Z",
+    "distanceToPerson": "236",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:25.523Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:26.511Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:27.522Z",
+    "distanceToPerson": "280",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:28.512Z",
+    "distanceToPerson": "216",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:29.544Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:30.517Z",
+    "distanceToPerson": "123",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:31.518Z",
+    "distanceToPerson": "176",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:32.523Z",
+    "distanceToPerson": "281",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:33.513Z",
+    "distanceToPerson": "167",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:34.520Z",
+    "distanceToPerson": "124",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:35.524Z",
+    "distanceToPerson": "280",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:36.515Z",
+    "distanceToPerson": "124",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:54:37.566Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:08.978Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:09.065Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:09.127Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:09.417Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:09.473Z",
+    "distanceToPerson": "178",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:10.461Z",
+    "distanceToPerson": "123",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:11.491Z",
+    "distanceToPerson": "284",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:12.472Z",
+    "distanceToPerson": "4",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:13.478Z",
+    "distanceToPerson": "3",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:14.470Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:15.480Z",
+    "distanceToPerson": "125",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:16.470Z",
+    "distanceToPerson": "2",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:17.480Z",
+    "distanceToPerson": "4",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:18.471Z",
+    "distanceToPerson": "3",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:19.475Z",
+    "distanceToPerson": "2",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:20.464Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:21.473Z",
+    "distanceToPerson": "285",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:22.477Z",
+    "distanceToPerson": "282",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:23.484Z",
+    "distanceToPerson": "3",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:24.492Z",
+    "distanceToPerson": "168",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:25.475Z",
+    "distanceToPerson": "282",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:26.482Z",
+    "distanceToPerson": "167",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:27.474Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:28.479Z",
+    "distanceToPerson": "249",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:29.485Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "6"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:30.494Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "7"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:31.469Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "11"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:32.468Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "12"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:33.473Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "16"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:34.473Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "15"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:35.473Z",
+    "distanceToPerson": "168",
+    "distanceToTrash": "11"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:36.478Z",
+    "distanceToPerson": "216",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:37.470Z",
+    "distanceToPerson": "215",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:38.473Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:39.537Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:40.514Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:41.516Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:42.521Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:43.525Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:44.513Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:45.519Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:46.521Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:47.512Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:48.515Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:49.521Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:50.508Z",
+    "distanceToPerson": "124",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:51.513Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:52.520Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:53.524Z",
+    "distanceToPerson": "167",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:54.514Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:55.521Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:56.524Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:57.518Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:58.529Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:55:59.515Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:00.520Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:01.526Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:02.467Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:02.984Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:03.991Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:04.462Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:05.468Z",
+    "distanceToPerson": "246",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:06.521Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:07.513Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:08.514Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:09.522Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:11.908Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:11.976Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:12.402Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:13.420Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:14.347Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:15.526Z",
+    "distanceToPerson": "214",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:16.514Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:17.520Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:18.513Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:19.522Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:20.512Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:21.517Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:22.523Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:23.523Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:24.514Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:25.522Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:26.515Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:27.524Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:28.514Z",
+    "distanceToPerson": "124",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:29.519Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:30.525Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:31.517Z",
+    "distanceToPerson": "123",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:32.521Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:33.510Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:34.520Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:35.527Z",
+    "distanceToPerson": "123",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:36.521Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:37.523Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:38.326Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:38.672Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:39.675Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:40.694Z",
+    "distanceToPerson": "254",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:41.719Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:42.645Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:43.693Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:44.808Z",
+    "distanceToPerson": "252",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:45.695Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:46.699Z",
+    "distanceToPerson": "169",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:47.682Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:48.727Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:49.708Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:50.806Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:51.642Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:52.645Z",
+    "distanceToPerson": "124",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:53.493Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:54.546Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:55.505Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:56.258Z",
+    "distanceToPerson": "120",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:57.271Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:58.279Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:56:59.267Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:00.257Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:01.260Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:02.258Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:03.270Z",
+    "distanceToPerson": "4",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:04.273Z",
+    "distanceToPerson": "1",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:05.265Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:06.518Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:07.529Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:08.516Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:09.518Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:10.516Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:11.515Z",
+    "distanceToPerson": "123",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:12.539Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:13.513Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:14.519Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:15.526Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:16.508Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:17.514Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:18.534Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:19.512Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:20.515Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:21.535Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:22.520Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:23.512Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:24.516Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:25.520Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:26.524Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:27.515Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:28.518Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:29.523Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:30.526Z",
+    "distanceToPerson": "120",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:31.516Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:32.524Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:33.567Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:34.511Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:35.519Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:36.515Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:37.553Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:38.504Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:39.520Z",
+    "distanceToPerson": "120",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:40.520Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:41.533Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:42.513Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:43.523Z",
+    "distanceToPerson": "123",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:44.511Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:45.521Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:46.527Z",
+    "distanceToPerson": "120",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:47.540Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:48.530Z",
+    "distanceToPerson": "120",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:49.536Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:50.526Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:51.525Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:52.543Z",
+    "distanceToPerson": "120",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:53.516Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:54.519Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:55.520Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:56.524Z",
+    "distanceToPerson": "120",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:57.519Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:58.517Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:57:59.512Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:00.522Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:01.528Z",
+    "distanceToPerson": "247",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:02.520Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:03.527Z",
+    "distanceToPerson": "247",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:04.513Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:05.522Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:36.897Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:37.269Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:38.322Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:38.940Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:39.574Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:40.075Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:41.070Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:42.088Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:43.078Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:44.524Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:45.515Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:46.103Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:47.092Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:48.080Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:49.089Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:50.088Z",
+    "distanceToPerson": "3",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:51.078Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:52.068Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:53.072Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:54.093Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:55.088Z",
+    "distanceToPerson": "2",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:56.093Z",
+    "distanceToPerson": "3",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:57.089Z",
+    "distanceToPerson": "3",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:58.072Z",
+    "distanceToPerson": "121",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:58:59.079Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:00.085Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:01.079Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:02.084Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:03.079Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:04.085Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:05.093Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:06.079Z",
+    "distanceToPerson": "118",
+    "distanceToTrash": "12"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:07.086Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "16"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:08.076Z",
+    "distanceToPerson": "118",
+    "distanceToTrash": "9"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:09.087Z",
+    "distanceToPerson": "161",
+    "distanceToTrash": "8"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:10.076Z",
+    "distanceToPerson": "161",
+    "distanceToTrash": "6"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:11.078Z",
+    "distanceToPerson": "122",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:12.073Z",
+    "distanceToPerson": "94",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:13.081Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:14.085Z",
+    "distanceToPerson": "91",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:15.088Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:16.077Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:17.086Z",
+    "distanceToPerson": "91",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:18.044Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:19.026Z",
+    "distanceToPerson": "91",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:20.028Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:21.037Z",
+    "distanceToPerson": "3",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:22.038Z",
+    "distanceToPerson": "2",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:23.029Z",
+    "distanceToPerson": "3",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:24.186Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:25.028Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:26.026Z",
+    "distanceToPerson": "20",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:27.045Z",
+    "distanceToPerson": "43",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:28.020Z",
+    "distanceToPerson": "41",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:29.026Z",
+    "distanceToPerson": "40",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:30.024Z",
+    "distanceToPerson": "14",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:31.029Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:32.024Z",
+    "distanceToPerson": "167",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:33.026Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:34.031Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:35.517Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:36.515Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:37.519Z",
+    "distanceToPerson": "166",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:38.518Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:39.524Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:40.514Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:41.522Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:42.516Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:43.522Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:44.514Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:45.518Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:46.525Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:47.514Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:48.532Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:49.514Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:50.517Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:51.524Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:52.512Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:53.521Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:54.519Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:55.513Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:56.517Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:57.515Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:58.513Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T00:59:59.521Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:00.513Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:01.515Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:02.523Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:03.516Z",
+    "distanceToPerson": "165",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:04.520Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:05.524Z",
+    "distanceToPerson": "94",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:06.516Z",
+    "distanceToPerson": "95",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:07.525Z",
+    "distanceToPerson": "94",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:08.520Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:09.527Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:10.531Z",
+    "distanceToPerson": "95",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:11.526Z",
+    "distanceToPerson": "94",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:12.515Z",
+    "distanceToPerson": "95",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:13.515Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:14.526Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:15.518Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:16.519Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:17.509Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:18.525Z",
+    "distanceToPerson": "91",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:19.516Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:20.523Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:21.512Z",
+    "distanceToPerson": "94",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:22.525Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:23.514Z",
+    "distanceToPerson": "94",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:24.520Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:25.522Z",
+    "distanceToPerson": "92",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:26.509Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:27.530Z",
+    "distanceToPerson": "92",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:28.522Z",
+    "distanceToPerson": "92",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:29.523Z",
+    "distanceToPerson": "92",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:30.511Z",
+    "distanceToPerson": "92",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:31.525Z",
+    "distanceToPerson": "92",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:32.509Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:33.518Z",
+    "distanceToPerson": "94",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:44.790Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:45.024Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:46.024Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:46.170Z",
+    "distanceToPerson": "164",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:47.170Z",
+    "distanceToPerson": "163",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:48.173Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:49.162Z",
+    "distanceToPerson": "162",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:50.180Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "33"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:51.164Z",
+    "distanceToPerson": "92",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:52.168Z",
+    "distanceToPerson": "94",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:53.168Z",
+    "distanceToPerson": "93",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:54.172Z",
+    "distanceToPerson": "91",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:55.172Z",
+    "distanceToPerson": "92",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:56.174Z",
+    "distanceToPerson": "92",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:57.171Z",
+    "distanceToPerson": "92",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:58.174Z",
+    "distanceToPerson": "91",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:00:59.174Z",
+    "distanceToPerson": "92",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:42.529Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:42.608Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:42.670Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:42.735Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:42.801Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:42.858Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:42.920Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:42.983Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.006Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.021Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.032Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.042Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.054Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.064Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.076Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.088Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.100Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.118Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.136Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.159Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.178Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.208Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.229Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.248Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.271Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.294Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.318Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.338Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.363Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.377Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.388Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.400Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.420Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.434Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.450Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.467Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.477Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.495Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.505Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.519Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.537Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.549Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.561Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.573Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.584Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.610Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.622Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.634Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.647Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.658Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.673Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.685Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.696Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.709Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.729Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.741Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.755Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.774Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.784Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.796Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.810Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.827Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.845Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.856Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.868Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.881Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.894Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.908Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.919Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.936Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.949Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.985Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:43.995Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.007Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.018Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.035Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.046Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.057Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.070Z",
+    "distanceToPerson": "344",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.081Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.093Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.107Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.118Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.132Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.143Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.155Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.167Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.184Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.194Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.206Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.218Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.232Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.243Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.255Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.268Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.280Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.291Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.309Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.320Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.331Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.344Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.356Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.366Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.385Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.395Z",
+    "distanceToPerson": "136",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.407Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.409Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.427Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.439Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.453Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.465Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.476Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.486Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.491Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.507Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.522Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.533Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.543Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.554Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.568Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.579Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.591Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.593Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.611Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.623Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.635Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.654Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.667Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.670Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.687Z",
+    "distanceToPerson": "42",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.701Z",
+    "distanceToPerson": "45",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.713Z",
+    "distanceToPerson": "45",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.724Z",
+    "distanceToPerson": "45",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.734Z",
+    "distanceToPerson": "45",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.747Z",
+    "distanceToPerson": "45",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.758Z",
+    "distanceToPerson": "45",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.816Z",
+    "distanceToPerson": "45",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.880Z",
+    "distanceToPerson": "45",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:44.943Z",
+    "distanceToPerson": "45",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.005Z",
+    "distanceToPerson": "45",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.068Z",
+    "distanceToPerson": "47",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.132Z",
+    "distanceToPerson": "47",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.196Z",
+    "distanceToPerson": "47",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.264Z",
+    "distanceToPerson": "47",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.321Z",
+    "distanceToPerson": "47",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.353Z",
+    "distanceToPerson": "49",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.368Z",
+    "distanceToPerson": "49",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.428Z",
+    "distanceToPerson": "49",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.490Z",
+    "distanceToPerson": "49",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.553Z",
+    "distanceToPerson": "49",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.618Z",
+    "distanceToPerson": "49",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.680Z",
+    "distanceToPerson": "49",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.742Z",
+    "distanceToPerson": "43",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.806Z",
+    "distanceToPerson": "43",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.885Z",
+    "distanceToPerson": "43",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:45.964Z",
+    "distanceToPerson": "43",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:46.041Z",
+    "distanceToPerson": "43",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:46.104Z",
+    "distanceToPerson": "43",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:46.165Z",
+    "distanceToPerson": "43",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:46.228Z",
+    "distanceToPerson": "43",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:46.430Z",
+    "distanceToPerson": "43",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:47.155Z",
+    "distanceToPerson": "32",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:48.166Z",
+    "distanceToPerson": "31",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:49.215Z",
+    "distanceToPerson": "76",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:50.226Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:51.252Z",
+    "distanceToPerson": "92",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:52.174Z",
+    "distanceToPerson": "47",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:53.169Z",
+    "distanceToPerson": "24",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:54.175Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:55.164Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:56.167Z",
+    "distanceToPerson": "137",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:57.159Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:58.179Z",
+    "distanceToPerson": "137",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:03:59.156Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:00.175Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:01.180Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:02.172Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:03.176Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:04.167Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:05.189Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:06.168Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:07.178Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:08.165Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:09.519Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:10.181Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:11.170Z",
+    "distanceToPerson": "137",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:11.771Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:12.616Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:13.276Z",
+    "distanceToPerson": "137",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:13.544Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:13.781Z",
+    "distanceToPerson": "324",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:13.990Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:14.204Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:14.470Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:14.629Z",
+    "distanceToPerson": "137",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:14.851Z",
+    "distanceToPerson": "137",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:15.024Z",
+    "distanceToPerson": "137",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:15.280Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:15.450Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:15.636Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:17.525Z",
+    "distanceToPerson": "323",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:18.529Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:19.522Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:20.513Z",
+    "distanceToPerson": "139",
+    "distanceToTrash": "34"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:21.301Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:21.643Z",
+    "distanceToPerson": "137",
+    "distanceToTrash": "35"
+  },
+  {
+    "timestamp": "2024-07-09T01:04:23.516Z",
+    "distanceToPerson": "138",
+    "distanceToTrash": "35"
+  }
+]
